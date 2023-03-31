@@ -1,0 +1,22 @@
+{
+  "name": "youtube-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ru-zxr/youtube-extension.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ru-zxr/youtube-extension/issues"
+  },
+  "homepage": "https://github.com/ru-zxr/youtube-extension#readme",
+  "devDependencies": {
+    "chrome-types": "^0.1.181"
+  }
+}
